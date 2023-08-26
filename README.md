@@ -1,2 +1,2 @@
 # CODSOFT
-## Internship Project 
+## Internship  
