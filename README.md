@@ -1,2 +1,2 @@
 # CODSOFT
-## Internship Project - Titanic survival prediction
+## Internship Project 
